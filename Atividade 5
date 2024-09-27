@@ -1,0 +1,15 @@
+\\ Faça a tabuada
+
+Metodo 1
+
+tabuada = int(input('Tabuada do número: '))
+for count in range(10):
+    print('%d x %d = %d' % (tabuada, count+1, tabuada*(count+1)))
+
+Metodo 2
+
+tabuada = int(input('Qual tabuada você quer saber?: \n'))
+print('Tabuada do', tabuada,  '\n')
+for num in range (1,11): {
+print('{} x {} = {}'. format(num,tabuada,num*tabuada))
+}

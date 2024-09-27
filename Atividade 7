@@ -1,0 +1,7 @@
+\\ calcular quanto de tinta para pintar area total
+
+largura = int(input('Largura da parede: '))
+altura = int(input('Altura da parede: '))
+area = altura * largura
+tinta = area / 2
+print('Com {} litros de tinta, você consegue pintar {} m²'. format(tinta, area))

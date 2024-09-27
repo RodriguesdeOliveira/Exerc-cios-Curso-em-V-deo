@@ -1,1 +1,1 @@
-Atividades desenvolvidas atraves do curso em video do Guanabara.
+Atividades desenvolvidas através do curso em vídeo do Guanabara.

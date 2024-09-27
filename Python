@@ -1,0 +1,6 @@
+// Apresentar antecessor e sucessor
+
+n1 = int(input('Digite um número: '))
+a = n1 - 1
+s = n1 + 1
+print('Seu antecessor é {}\nSeu sucessor é {}'. format(a, s))

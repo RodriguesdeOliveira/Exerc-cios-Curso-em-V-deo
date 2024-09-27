@@ -1,0 +1,11 @@
+\\ Calcular desconto e aumento em %
+
+preco = float(input('Qual preço do produto: '))
+desconto = (5/100) * preco
+valor = preco - desconto
+print ('Com 5% de desconto o novo preço é: {}'. format(valor))
+
+salario = float(input('Qual seu sálario: '))
+aumento = (15/100) * salario
+valor = salario + aumento
+print ('Com 15% de aumento o novo sálario é: {}'. format(valor))

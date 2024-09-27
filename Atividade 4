@@ -1,0 +1,6 @@
+\\ converter metro em centimetro e milimetro
+
+n1 = int(input('Digite o valor da metragem: '))
+cm = n1 * 10
+ml = n1 * 100
+print('Em centímetro é: {}\nEm milimitro é {}\n'. format(cm , ml))

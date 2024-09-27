@@ -1,0 +1,6 @@
+\\ Converter real em dolar ( cotação do dia)
+
+carteira = int(input('Quanto você tem na carteira? '))
+dolar = 3.27
+conversao = carteira / dolar
+print('Com {} reais, você consegue comprar {} dolares'. format(carteira, conversao))
